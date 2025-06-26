@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@shadcn/ui": "^0.0.4",
+    "lucide-react": "^0.475.0",
+    "mermaid": "^11.4.1"
+  }
+}

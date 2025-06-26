@@ -1,0 +1,26 @@
+# Exclude frontend source code
+frontend/
+
+# Exclude Python cache
+__pycache__/
+*.pyc
+*.pyo
+backend/__pycache__/
+
+# Exclude environment files
+.env
+.env.local
+
+# Exclude development files
+.vscode/
+.idea/
+.DS_Store
+*.log
+
+# Exclude temporary files
+temp_scripts/
+uploads/
+strategic_recommendations/
+
+# Include build directory (don't exclude it)
+# build/  <- DO NOT PUT THIS LINE

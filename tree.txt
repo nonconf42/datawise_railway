@@ -1,0 +1,38 @@
+.
+├── LICENSE
+├── application.py
+├── backend
+│   ├── ColumnsDict.py
+│   ├── DCAgent.py
+│   ├── __init__.py
+│   ├── __pycache__
+│   ├── app.py
+│   ├── data_aggregation_agent.py
+│   ├── datasets
+│   ├── kill_3000.sh
+│   ├── llms
+│   ├── pipeline.py
+│   ├── strategic_recommendations
+│   ├── temp_scripts
+│   ├── total_orders.csv
+│   └── uploads
+├── build
+│   ├── asset-manifest.json
+│   ├── index.html
+│   └── static
+├── frontend
+│   ├── build
+│   ├── node_modules
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── public
+│   ├── src
+│   └── tailwind.config.js
+├── kill_8000.sh
+├── logs.txt
+├── package-lock.json
+├── package.json
+├── requirements.txt
+└── tree.txt
+
+15 directories, 21 files
